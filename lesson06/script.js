@@ -90,7 +90,7 @@ while (input !== 'Q')  {
             break;
         }
         default: {
-            alert('Invalid input, please enter one of the following commands: \n - View Balance (B)\n - Withdraw (W)\n - Deposit (D)\n - Quit (Q)');
+            alert('Invalid input, please try again.');
         }
     }
     retakeInput();
